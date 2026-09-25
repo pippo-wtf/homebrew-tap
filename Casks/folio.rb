@@ -1,6 +1,6 @@
 cask "folio" do
-  version "0.13.2"
-  sha256 "e261bbf78ac7122a957414f427f8356005ce00c5d3f30dfea0860bf0b20a9d9d"
+  version "0.13.3"
+  sha256 "63413201b650f18d592f59f97dfbad126ca441007689108584186794a6be0abe"
 
   url "https://github.com/pippo-wtf/folio/releases/download/v#{version}/Folio-#{version}.zip"
   name "Folio"
